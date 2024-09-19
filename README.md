@@ -11,3 +11,4 @@ In this report, we investigate the performance of space-time block coding (STBC)
 [4] "nutaq," [Online]. Available: https://www.nutaq.com/blog/alamoutispace-time-block-coding. [Accessed 07 04 2019].
 
 [5] N. T. Nga, N. Van Duc, J. Byeungwoo and N. Quy Sy, "An investigation of the spatial correlation influence on coded MIMO-OFDMA system performance," in The 12th International Conference, 2018.
+doi:10.1145/3164541.3164572
